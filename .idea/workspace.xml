@@ -4,63 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2afea61b-ffad-4499-bc9d-adbc45e67731" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/com/network/chat/client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/com/network/chat/client/controllers/AuthController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/com/network/chat/client/controllers/ClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/com/network/chat/client/dialogs/Dialogs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/com/network/chat/client/model/Network.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/com/network/chat/client/model/ReadMessageListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/resources/com/network/chat/client/authDialog.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/src/main/resources/com/network/chat/client/chat-template.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/Commands.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/network/chat/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/network/chat/command/CommandType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/network/chat/command/commands/AuthCommandData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/network/chat/command/commands/AuthOkCommandData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/network/chat/command/commands/ClientMessageCommandData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/network/chat/command/commands/ErrorCommandData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/network/chat/command/commands/PrivateMessageCommandData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/network/chat/command/commands/PublicMessageCommandData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/network/chat/command/commands/UpdateUserListCommandData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetworkChat.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server/Server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server/src/ServerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server/src/chat/ClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server/src/chat/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server/src/chat/auth/AuthService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server/src/chat/auth/User.java" afterDir="false" />
+    <list default="true" id="2afea61b-ffad-4499-bc9d-adbc45e67731" name="Changes" comment="clean commit">
+      <change afterPath="$PROJECT_DIR$/Server/src/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,6 +102,14 @@
       <option name="presentableId" value="Default" />
       <updated>1652434814235</updated>
     </task>
+    <task id="LOCAL-00001" summary="clean commit">
+      <created>1652683015068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652683015068</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,5 +122,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="clean commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="clean commit" />
   </component>
 </project>
